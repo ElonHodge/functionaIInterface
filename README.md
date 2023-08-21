@@ -1,6 +1,5 @@
-***Functional Interface***
-
-
+#***Functional Interface***
+___
 @FunctionalInterface
 
  An informative annotation type used to indicate that an interface type declaration is intended to be a functional
@@ -24,6 +23,9 @@ An **abstract method** is a method that is declared without an implementation (w
 
 **Default methods** enable you to add new functionality to existing interfaces and ensure binary compatibility with code written for older versions of those interfaces. In particular, default methods enable you to add methods that accept lambda expressions as parameters to existing interfaces.
 ![img.png](img.png)
+
+#***Practice***
+___
 
 1. Create a functionalInterface name Calculations
 
